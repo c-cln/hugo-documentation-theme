@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Study data
 type: book # Do not modify.
 toc: false
 ---
